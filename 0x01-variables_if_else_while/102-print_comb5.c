@@ -1,4 +1,3 @@
-
 Task 12
 #include <stdio.h>
 #include <unistd.h>
