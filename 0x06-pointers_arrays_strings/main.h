@@ -1,18 +1,5 @@
 i#ifndef MAIN_H
-#define MAIN_H 
-    
-/* 
-    * This heaer file contains declarations 
-    * for prototypes functions defined in the 0x06. C - More pointers, arrays and strings 
-    * tasks and directory 
-    * This thing is all about creating my own library 
-    * the task defines the function 
-  */ 
-   
-  /*enclosing the files content in between ifndef, define & endif 
-  *it stops the file from processing the file twice if ti is included twice 
- *if not so, this will cause an error 
-  */ 
+#define MAIN_H  
   
 int _putchar(char c);
 char *_strcat(char *dest, char *src);
